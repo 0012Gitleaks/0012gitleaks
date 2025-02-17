@@ -420,6 +420,7 @@ func TestFromGit(t *testing.T) {
 					StartColumn: 17,
 					EndColumn:   36,
 					Secret:      "AKIALALEMEL33243OLIA",
+					Secret:      "AKIALALEMEL33243OLIA",
 					Line:        "\n\taws_token := \"AKIALALEMEL33243OLIA\"",
 
 					Date:        "2021-11-02T23:48:06Z",
