@@ -411,6 +411,7 @@ You can ignore specific findings by creating a `.gitleaksignore` file at the roo
 
 ## Exit Codes
 
+
 You can always set the exit code when leaks are encountered with the --exit-code flag. Default exit codes below:
 
 ```
